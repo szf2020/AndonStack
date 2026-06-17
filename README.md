@@ -1,3 +1,12 @@
+> ⚠️ **Archived / no longer maintained.**
+>
+> AndonStack was an experiment in driving a physical Andon stack light from
+> dispatch/system status. It works as released and you're welcome to fork it
+> and carry it forward — I'm just no longer developing or supporting it, so
+> issues and PRs are closed.
+>
+> Thanks to everyone who checked it out.
+
 # AndonStack
 
 A physical RGB stack light indicator for radio dispatch consoles, built with an ESP32-C3 and WS2812B NeoPixel LED rings.
